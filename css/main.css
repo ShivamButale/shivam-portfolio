@@ -5,7 +5,6 @@
     -o-background-size: cover;
     background-size: cover;
     
-    /*1908*1272*/
     color: #ecfdf9;
     min-height: 100vh;
     font-family: monospace;
@@ -23,7 +22,7 @@
     height: 200px;
     width: 200px;
     align-self: center;
-    box-shadow:orangered 2px 5px 5px;
+    /*box-shadow:orangered 2px 5px 5px;*/
     float : right;
 }
 .course-link {
