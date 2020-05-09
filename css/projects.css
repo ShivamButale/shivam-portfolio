@@ -1,5 +1,10 @@
-.site-header {
-    background-color: #1bbc9b;
+.site-header {    
+    background: url('../images/beach-dawn-dusk-ocean-189349.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
     color: #ecfdf9;
     overflow: auto;
     min-height: 100vh;
@@ -18,4 +23,7 @@
 }
 body {
     margin: 0;
+}
+.my_projects {
+    text-align: center;
 }
